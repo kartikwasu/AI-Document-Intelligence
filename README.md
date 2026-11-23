@@ -23,6 +23,8 @@ Organizations store large amounts of information in PDF documents. Finding relev
 - ChromaDB
 - FastAPI
 - Streamlit
+## Project Progress
 
-## Project Status
-Day 1: Initial project setup.
+- Day 1: Initial project setup and GitHub configuration.
+- Day 2: Created project folder structure and installed dependencies.
+- Day 3: Implemented PDF text extraction and text file storage.
