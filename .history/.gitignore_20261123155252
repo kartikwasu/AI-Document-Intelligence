@@ -1,0 +1,16 @@
+
+.venv/
+venv/
+.env
+__pycache__/
+*.pyc
+chroma_db/
+vectorstore/
+*.db
+.ipynb_checkpoints/
+
+# Ignore uploaded and processed documents
+data/uploads/*
+!data/uploads/.gitkeep
+data/processed/*
+!data/processed/.gitkeep

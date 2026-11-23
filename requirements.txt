@@ -1,3 +1,5 @@
 
-python-dotenv
 groq
+python-dotenv
+pypdf
+
