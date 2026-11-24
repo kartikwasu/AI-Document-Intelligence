@@ -28,3 +28,4 @@ Organizations store large amounts of information in PDF documents. Finding relev
 - Day 1: Initial project setup and GitHub configuration.
 - Day 2: Created project folder structure and installed dependencies.
 - Day 3: Implemented PDF text extraction and text file storage.
+- Day 4: Implemented text cleaning and preprocessing.
