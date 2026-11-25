@@ -29,3 +29,5 @@ Organizations store large amounts of information in PDF documents. Finding relev
 - Day 2: Created project folder structure and installed dependencies.
 - Day 3: Implemented PDF text extraction and text file storage.
 - Day 4: Implemented text cleaning and preprocessing.
+- Day 5: Implemented text chunking with configurable chunk size and overlap.
+- Generated chunks.json for future embedding and vector storage.
