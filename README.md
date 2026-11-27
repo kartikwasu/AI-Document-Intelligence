@@ -50,3 +50,6 @@ PDF Upload → Text Extraction / OCR → Text Cleaning → Text Chunking → Emb
 - Source references in generated answers.
 - User-friendly Streamlit interface.
 - FastAPI backend integration.
+- Day 7: Implemented text embeddings using Sentence Transformers.
+- Generated 384-dimensional vectors using all-MiniLM-L6-v2.
+- Saved generated embeddings for future vector database integration.
